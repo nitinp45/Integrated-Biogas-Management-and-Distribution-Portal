@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>
+      Online Shopping Site for Mobiles, Electronics, Furniture, Grocery,
+      Lifestyle, Books &amp; More. Best Offers!
+    </title>
+    <link rel="stylesheet" href="style.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/flickity@2/dist/flickity.min.css"
+    />
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <h1><strong>M</strong>Parlour</h1>
+          <li><a href="home.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div class="container">
+      <h1>Parlour Products</h1>
+      <div class="main-carousel">
+        <div class="cell"><img src="img/img1.jpg" /></div>
+        <div class="cell"><img src="img/img2.jpg" /></div>
+        <div class="cell"><img src="img/img3.jpg" /></div>
+        <div class="cell"><img src="img/img4.jpg" /></div>
+      </div>
+
+      <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+      <script type="text/javascript">
+        $(".main-carousel").flickity({
+          // options
+          cellAlign: "left",
+          wrapAround: true,
+          freeScroll: true,
+        });
+      </script>
+    </div>
+    <footer class="flex-all-center">
+      <p>Copyright &copy; Mycart.com</p>
+      <div class="social">
+        <li>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+        </li>
+        <li>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+        </li>
+        <li>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
+        </li>
+        <li>
+          <a href="#"><i class="fa fa-github"></i></a>
+        </li>
+      </div>
+    </footer>
+  </body>
+</html>
