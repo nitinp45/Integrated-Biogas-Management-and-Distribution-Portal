@@ -2,5 +2,5 @@ Java
 Javscript
 Python
 C++
-Maven
-Jira
+kedar
+pradeep
