@@ -2,7 +2,5 @@ Java
 Javscript
 Python
 C++
-C
-Kotlin
 Maven
-Jira
+Gradle
