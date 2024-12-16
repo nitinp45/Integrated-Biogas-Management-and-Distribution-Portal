@@ -79,7 +79,7 @@ export const Card = () => {
       {cards.map((card) => (
         <div
           key={card.id}
-          className="flex flex-col items-center p-6 space-y-3 text-center bg-gray-100 rounded-xl dark:bg-gray-800">
+          className="flex flex-col items-center p-6 space-y-3 text-center bg-gray-100 rounded-xl dark:bg-gray-800 hover:shadow-lg hover:bg-gray-400 hover:scale-105 transition-transform duration-300">
           <span className="inline-block p-3 text-indigo-500 bg-indigo-100 rounded-full dark:text-white dark:bg-indigo-500">
             {card.icon}
           </span>
@@ -92,7 +92,7 @@ export const Card = () => {
             href={card.link}
             className="flex items-center -mx-1 text-sm text-blue-500 capitalize transition-colors duration-300 transform dark:text-blue-400 hover:underline hover:text-blue-600 dark:hover:text-blue-500"
           >
-            <span className="mx-1">Read More</span>
+            <span className="mx-1 text-black-500">Read More</span>
             <svg
               className="w-4 h-4 mx-1 rtl:-scale-x-100"
               fill="currentColor"

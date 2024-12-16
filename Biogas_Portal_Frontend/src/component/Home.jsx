@@ -10,14 +10,14 @@ export const Home = () => {
         <div className="container mx-auto flex flex-col md:flex-row items-center px-4">
           {/* Text Content */}
           <div className="md:w-1/2 text-center md:text-left">
-            <h1 className="text-5xl font-bold mb-4">
+            <h1 className="text-5xl font-bold mb-4 ml-10 mr-10">
               Transform Waste into Energy
             </h1>
-            <p className="text-lg mb-6">
+            <p className="text-lg mb-6 ml-10 mr-10">
               Join us in making the world a greener place. Manage waste, produce
               biogas, and contribute to sustainable energy solutions.
             </p>
-            <button className="bg-green-500 text-white font-bold py-2 px-6 rounded hover:bg-green-600">
+            <button className="bg-green-500 text-white font-bold py-2 px-6 rounded hover:bg-green-600 ml-10">
               Learn More
             </button>
           </div>
