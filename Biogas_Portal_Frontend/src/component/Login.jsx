@@ -1,7 +1,15 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { useNavigate } from "react-router-dom";
 
 export const Login = () => {
+
+ const navigate = useNavigate();
+
+  const handleRedirect = () => {
+    navigate("/wasteform"); 
+  };
+
   return (
     <section className="py-4 md:py-8 ">
       <div className="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
@@ -65,8 +73,8 @@ export const Login = () => {
 
             <form
               className="space-y-4 md:space-y-6"
-              method="POST"
-              action="/auth/login/"
+              // method="POST"
+              action="/wasteform"
             >
               <div>
                 <label
@@ -128,7 +136,7 @@ export const Login = () => {
               </div>
 
               <button
-                type="submit"
+                type="submit"  onClick={handleRedirect}
                 className="text-white bg-teal-600 py-1.5 px-4 rounded font-bold w-full"
               >
                 Sign in
