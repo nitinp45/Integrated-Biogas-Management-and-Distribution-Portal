@@ -47,5 +47,4 @@ This project is a web application built with a **React** frontend, a **C# .NET C
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Integrated-Biogas-Management-and-Distribution-Portal.git
-cd Integrated-Biogas-Management-and-Distribution-Portal
+https://github.com/nitinp45/Integrated-Biogas-Management-and-Distribution-Portal.git
