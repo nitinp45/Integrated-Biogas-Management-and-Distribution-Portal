@@ -4,21 +4,8 @@ Creating a website that tells industries about the amount of bio-degradable wast
 
 ## 🛠 Tech Stack
 
-- **Frontend**: 
-  - ![React Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/React-logo.png) React
-  - ![Tailwind CSS Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Tailwind_CSS_Logo.svg) Tailwind CSS
-  - JavaScript
-
-- **Backend**:
-  - ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/CSharp_logo.svg) C#
-  - ![.NET Core Logo](https://upload.wikimedia.org/wikipedia/commons/e/e6/.NET_Core_Logo_2019.svg) .NET Core
-
-- **Database**:
-  - ![MSSQL Server Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/Microsoft_SQL_Server_logo.png) MSSQL Server
-
-- **Deployment**: 
-  - ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/d/de/Amazon_Web_Services_Logo.svg) AWS
-  - ![Azure Logo](https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Azure_Logo.svg) Azure
+**Client:** React,JavaScript,TailwindCSS
+**Server:** .Net Core,C#,MSSQL Server
 
 ## 💻 Overview
 
