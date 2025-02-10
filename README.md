@@ -10,7 +10,7 @@ Creating a website that tells industries about the amount of bio-degradable wast
 
 ## 💻 Overview
 
-This project is a web application built with a **React** frontend, a **C# .NET Core** backend, and a **MSSQL Server** database. The frontend is styled using **Tailwind CSS** for responsive, utility-first design. The app is deployed on **AWS** and **Azure**.
+This project is a web application built with a **React** frontend, a **C# .NET Core** backend, and a **MSSQL Server** database. The frontend is styled using **Tailwind CSS** for responsive, utility-first design. The app is deployed on **Vercel** and **Azure**.
 
 ## 🚀 Features
 
@@ -26,9 +26,8 @@ This project is a web application built with a **React** frontend, a **C# .NET C
 - **Database**:
   - **MSSQL Server** for data storage
 
-- **Deployment**:
-  - Deployed to **AWS** for scalable cloud hosting
-  - **Azure** used for additional deployment and hosting needs
+- **Deployment**
+  - **Azure** used for deployment 
 
 ## 🔧 Installation
 
