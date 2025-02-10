@@ -1,15 +1,24 @@
 # Integrated-Biogas-Management-and-Distribution-Portal
 
-Creating a website which tells about the amount of bio-degradable present in near by dump-yards to the industries which do the production of BIOGAS
-
-# Project Name
+Creating a website which tells about the amount of bio-degradable present in nearby dump-yards to the industries which do the production of BIOGAS.
 
 ## 🛠 Tech Stack
 
-- **Frontend**: React, Tailwind CSS, JavaScript
-- **Backend**: C#, .NET Core
-- **Database**: MSSQL Server
-- **Deployment**: AWS, Azure
+- **Frontend**: 
+  - ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React
+  - ![Tailwind CSS Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/Tailwind_css_logo.svg) Tailwind CSS
+  - JavaScript
+
+- **Backend**:
+  - ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/47/CSharp_logo.png) C#
+  - ![.NET Core Logo](https://upload.wikimedia.org/wikipedia/commons/0/0d/.NET_Core_Logo_2021.svg) .NET Core
+
+- **Database**:
+  - ![MSSQL Server Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_SQL_Server_Logo.png) MSSQL Server
+
+- **Deployment**: 
+  - ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_Web_Services_Logo.svg) AWS
+  - ![Azure Logo](https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Azure_Logo.svg) Azure
 
 ## 💻 Overview
 
@@ -33,4 +42,10 @@ This project is a web application built with a **React** frontend, a **C# .NET C
   - Deployed to **AWS** for scalable cloud hosting
   - **Azure** used for additional deployment and hosting needs
 
+## 🔧 Installation
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/Integrated-Biogas-Management-and-Distribution-Portal.git
+cd Integrated-Biogas-Management-and-Distribution-Portal
