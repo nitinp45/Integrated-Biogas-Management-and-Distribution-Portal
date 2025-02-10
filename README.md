@@ -27,7 +27,8 @@ This project is a web application built with a **React** frontend, a **C# .NET C
   - **MSSQL Server** for data storage
 
 - **Deployment**
-  - **Azure** used for deployment 
+  - **Azure** used for deploying backend and database
+  - **Vercel** used deploying frontend
 
 ## 🔧 Installation
 
