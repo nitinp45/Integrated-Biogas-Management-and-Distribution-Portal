@@ -5,6 +5,7 @@ Creating a website that tells industries about the amount of bio-degradable wast
 ## 🛠 Tech Stack
 
 **Client:** React,JavaScript,TailwindCSS
+
 **Server:** .Net Core,C#,MSSQL Server
 
 ## 💻 Overview
