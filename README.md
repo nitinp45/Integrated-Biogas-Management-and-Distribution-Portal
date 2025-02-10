@@ -1,23 +1,23 @@
 # Integrated-Biogas-Management-and-Distribution-Portal
 
-Creating a website which tells about the amount of bio-degradable present in nearby dump-yards to the industries which do the production of BIOGAS.
+Creating a website that tells industries about the amount of bio-degradable waste present in nearby dump-yards for biogas production.
 
 ## 🛠 Tech Stack
 
 - **Frontend**: 
-  - ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React
-  - ![Tailwind CSS Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/Tailwind_css_logo.svg) Tailwind CSS
+  - ![React Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/React-logo.png) React
+  - ![Tailwind CSS Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Tailwind_CSS_Logo.svg) Tailwind CSS
   - JavaScript
 
 - **Backend**:
-  - ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/47/CSharp_logo.png) C#
-  - ![.NET Core Logo](https://upload.wikimedia.org/wikipedia/commons/0/0d/.NET_Core_Logo_2021.svg) .NET Core
+  - ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/CSharp_logo.svg) C#
+  - ![.NET Core Logo](https://upload.wikimedia.org/wikipedia/commons/e/e6/.NET_Core_Logo_2019.svg) .NET Core
 
 - **Database**:
-  - ![MSSQL Server Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_SQL_Server_Logo.png) MSSQL Server
+  - ![MSSQL Server Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/Microsoft_SQL_Server_logo.png) MSSQL Server
 
 - **Deployment**: 
-  - ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_Web_Services_Logo.svg) AWS
+  - ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/d/de/Amazon_Web_Services_Logo.svg) AWS
   - ![Azure Logo](https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Azure_Logo.svg) Azure
 
 ## 💻 Overview
